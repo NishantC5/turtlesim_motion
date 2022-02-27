@@ -15,6 +15,6 @@ $ catkin_make
 ```
 ## Run the motion_publisher node
 If you choose to run the C++ node then go ahead with this command
-`$ rosrun turtlesim_circle_motion motion_publisher`
+```$ rosrun turtlesim_circle_motion motion_publisher```
 For python,
-`$ rosrun turtlesim_circle_motion motion_publisher.py`
+```$ rosrun turtlesim_circle_motion motion_publisher.py```
