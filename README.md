@@ -1,5 +1,5 @@
 # turtlesim_motion
-Its a sandbox project to play around with turtlesim. One can define trajectories in C++ or python and run the node to see the turtle move. The nodes are written in C++ and python named `motion_publisher` and `motion_publisher.py` respectively.
+Its a sandbox project to play around with turtlesim. One can define trajectories in C++ or python and run the node to see the turtle move. The nodes are written in C++ and python named `motion_publisher` and `motion_publisher.py` respectively. Its a side learning project which was inspired by the *ROS for beginners* course project on Udemy.
 
 ## How to install
 1. In order to install this package, one must have the catkin workspace already created. If not created, follow the tutorial http://wiki.ros.org/catkin/Tutorials/create_a_workspace
