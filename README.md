@@ -4,7 +4,9 @@ Its a sandbox project to play around with turtlesim. One can define trajectories
 ## How to install
 1. In order to install this package, one must have the catkin workspace already created. If not created, follow the tutorial http://wiki.ros.org/catkin/Tutorials/create_a_workspace
 2. Change directory to the source folder in catkin workspace 
-`$ cd catkin_ws/src`
+```
+$ cd catkin_ws/src
+```
 3. Clone the repository in this directory.
 4. Go back to the catkin workspace and build.
 ```
